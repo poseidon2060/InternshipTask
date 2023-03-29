@@ -2,4 +2,8 @@
     <string name="app_name">InternshipTask</string>
     <string name="firebase">The following button takes you to a screen that takes inputs from user and displays it in a Recycler View, the inputs are uploaded and retrieved from Firebase Cloud Storage</string>
     <string name="sharedpref">The following button takes you to a screen that takes inputs from user and displays it in a Recycler View, the inputs are uploaded and retrieved from SharedPreferences</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
